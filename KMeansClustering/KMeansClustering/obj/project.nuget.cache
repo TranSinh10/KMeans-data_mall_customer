@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAXZzl0uhe4zcAh7o+bNQ8FlYqYLpm3nayfNoIcuyutt+dMRa02op/JJUWiAixO7cn7eg9LxJpSRFzxEOfd4iQ==",
+  "success": true,
+  "projectFilePath": "E:\\Đồ án tốt nghiệp\\KMeansClustering\\KMeansClustering\\KMeansClustering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nam\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\nam\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
